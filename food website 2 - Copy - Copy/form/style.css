@@ -1,0 +1,11 @@
+body
+{background-color: aqua;
+    background-image: url(https://s-media-cache-ak0.pinimg.com/736x/ed/0d/e8/ed0de8384075d006b34e0ace66d2b1d9.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+    
+}
+span,p{
+    font-size: large;
+    color:white ;}

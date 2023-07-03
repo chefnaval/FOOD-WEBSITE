@@ -1,0 +1,43 @@
+button{
+    display: block;
+    margin: 10px auto;
+    background-color: aqua;
+    border: 0;
+    padding: 6PX 10PX;
+}
+
+.popup-wrapper{
+    background: rgb(218, 206, 229);
+    position: fixed;
+    top: 0%;
+    left: 0%;
+    width: 80%;
+    height: 0%;
+   
+}
+
+.popup{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    width: 100%;
+    max-width: 300px;
+    margin: 30% AUTO;
+    padding: 20%;
+    background: wheat;
+    position: relative;
+
+}
+
+.popup a{
+    background-color: red;
+    color: azure;
+    text-decoration: none;
+    padding: 6PX 10px;
+}
+.popup-close{
+    position: absolute;
+    top: 5px;
+    right: 5px;
+    cursor: pointer;
+
+}
